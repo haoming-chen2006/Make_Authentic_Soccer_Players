@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Generating Faces",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
