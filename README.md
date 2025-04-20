@@ -17,10 +17,18 @@ List of models:
 
 ## Results
 
+Generated images
+
+
+Generated profile with names
+
+
+Generated full profile
 
 ---
 
 ## 🏃‍♂️ Training
 
 ```bash
-python scripts/train_vqvae_cnn.py
+python train.py train_vqvae_cnn
+
