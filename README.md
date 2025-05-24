@@ -22,9 +22,6 @@ List of models:
 
 Generated images
 
-ByGAN:
-<img width="1449" alt="Screenshot 2025-05-21 at 14 30 05" src="https://github.com/user-attachments/assets/c4fa00e0-101a-4f75-9ecc-b7d9b2d81897" />
-
 By VQVAE:
 <img width="738" alt="Screenshot 2025-05-21 at 14 28 17" src="https://github.com/user-attachments/assets/db273cc2-a8c9-4961-9740-00abf405d524" />
 
