@@ -1,8 +1,8 @@
 # Make Authentic Soccer Players
 
-This project uses **variousmachine learning models** to generate soccer player profiles - this includes images, names, statistics, and background information. The focus is to provide accurate generaiton based on a small dataset. This project serve as an educational project for me to build models from scratch and understand their archeitecture. With possible integration into any games or applications requiring seamless generation of authentic soccer play profiles
+This project uses **various machine learning models** to generate soccer player profiles - this includes **images, names, statistics, and background information.** The focus is to provide accurate generaiton based on a small dataset. This project serve as an educational project for me to build models from scratch and understand their archeitecture. With possible integration into any games or applications requiring seamless generation of authentic soccer play profiles
 
-List of models:
+# List of models:
   GAN
     - Archeitecture following the FASTGAN approach
   Vector Quantized Variational Autoencoder (VQ-VAE)
