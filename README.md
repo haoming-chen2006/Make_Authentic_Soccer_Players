@@ -11,7 +11,7 @@ This project uses **various machine learning models** to generate soccer player 
  
  Transformer based Makemore  
    - Generate player names
-   - 
+     
 GPT 2 Model
   - Built from scratch to tenerate player background story and names
     - Include a flash attention and faster multihead attention implementation
