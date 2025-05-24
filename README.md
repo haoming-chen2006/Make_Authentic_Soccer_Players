@@ -3,17 +3,21 @@
 This project uses **various machine learning models** to generate soccer player profiles - this includes **images, names, statistics, and background information.** The focus is to provide accurate generaiton based on a small dataset. This project serve as an educational project for me to build models from scratch and understand their archeitecture. With possible integration into any games or applications requiring seamless generation of authentic soccer play profiles
 
 # List of models:
-  GAN
-    - Archeitecture following the FASTGAN approach
-  Vector Quantized Variational Autoencoder (VQ-VAE)
-    - The architecture is based on convolutional encoders/decoders and vector quantization, following the design in *Neural Discrete Representation Learning* (van den Oord et al., 2017).
-  Transformer based Makemore
-    - Generate player names
-  GPT 2 Model
-    - Built from scratch to tenerate player background story and names
+  GAN  
+    - Archeitecture following the FASTGAN approach   
+    
+  Vector Quantized Variational Autoencoder (VQ-VAE)  
+      - The architecture is based on convolutional encoders/decoders and vector quantization, following the design in *Neural Discrete Representation Learning* (van den Oord et al., 2017). 
+ 
+ Transformer based Makemore  
+   - Generate player names
+   - 
+GPT 2 Model
+  - Built from scratch to tenerate player background story and names
     - Include a flash attention and faster multihead attention implementation
-  Conditional Quantizer:
-    - Basically the VQ_VAE design with Transformer model as encoder and decoders to better learn semantic meaning
+      
+  Conditional Quantizer:  
+  - Basically the VQ_VAE design with Transformer model as encoder and decoders to better learn semantic meaning
   
 
 ---
