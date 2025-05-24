@@ -11,10 +11,11 @@ This project uses **various machine learning models** to generate soccer player 
  
  Transformer based Makemore  
    - Generate player names
+   - Folllowing approach in the videos of kaparthy
      
 GPT 2 Model
-  - Built from scratch to tenerate player background story and names
-    - Include a flash attention and faster multihead attention implementation
+  - Built from scratch to tenerate player background story and names, following official approach in pytorch tutorials
+  - Include a flash attention and faster multihead attention implementation
       
   Conditional Quantizer:  
   - Basically the VQ_VAE design with Transformer model as encoder and decoders to better learn semantic meaning
